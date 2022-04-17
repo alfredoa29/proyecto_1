@@ -28,6 +28,7 @@ public class UbicacionesModel {
         this.name = name;
     }
 
+    
     @Override
     public String toString() {
         return "UbicacionesModel{" + "id=" + id + ", name=" + name + '}';
